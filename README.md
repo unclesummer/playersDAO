@@ -16,6 +16,8 @@ A PlayersDAO entrega uma infraestrutura de suporte completo para a carreira do m
  * Fase 2 (Governança): Lançamento do token de reputação para votações coletivas.
  * Fase 3 (Financeiro): Implementação de pagamentos via contratos inteligentes e fundo mútuo.
 
-# Links
-Discord: discord.com/playersDAO
-X: x.com/playersDAO
+# Discord
+discord.com/playersDAO
+
+# X
+x.com/playersDAO
